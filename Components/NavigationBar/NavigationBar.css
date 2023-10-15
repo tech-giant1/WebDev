@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 50px;
+    background-color:lightblue;
+}
+
+.title {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-btn-container {
+    margin-top: 30px;
+}
+
+.nav-btn {
+    font-size: 20px;
+    padding-right: 10px;
+    text-decoration: none;
+}
